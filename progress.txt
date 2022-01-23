@@ -1,5 +1,14 @@
+ステータス
+- fin 完了
+- nys not-yet-started
+- mid 途中
+
+
+
 to start from(fin)
 https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web
+
+ウェブ入門＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 HTMLの基本(fin)
 https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/HTML_basics
@@ -11,3 +20,10 @@ A user name of null?  からやる
 
 JavaScript の学習(nys)
 https://developer.mozilla.org/ja/docs/Learn/JavaScript
+
+ウェブサイトの公開(fin)
+https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/Publishing_your_website
+codepen などのサービスが便利だ。
+github.io もメンテナンスしていきたい。
+ウェブ入門：完了＝＝＝＝＝＝＝＝＝＝＝
+
