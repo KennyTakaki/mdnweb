@@ -1,2 +1,10 @@
 to start from
 https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web
+
+HTMLの基本
+https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/HTML_basics
+
+CSSの基本
+https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/CSS_basics
+ウェブサイトの例を膨らませるからやる
+
