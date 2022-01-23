@@ -1,10 +1,13 @@
-to start from
+to start from(fin)
 https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web
 
-HTMLの基本
+HTMLの基本(fin)
 https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/HTML_basics
 
-CSSの基本
+CSSの基本(fin)
 https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/CSS_basics
 ウェブサイトの例を膨らませるからやる
-⇒A user name of null?  からやる
+A user name of null?  からやる
+
+JavaScript の学習(nys)
+https://developer.mozilla.org/ja/docs/Learn/JavaScript

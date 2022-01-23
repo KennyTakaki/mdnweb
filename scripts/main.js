@@ -14,8 +14,13 @@ let myHeading = document.querySelector('h1');
 
 function setUserName() {
         let myName = prompt('あなたの名前を入力してください。');
-        localStorage.setItem('name', myName);
-        myHeading.textContent = 'Mozilla はすばらしいよ、' + myName;
+        if(!myName){
+                setUserName();
+        }
+        else{
+                localStorage.setItem('name', myName);
+                myHeading.textContent = 'Mozilla はすばらしいよ、' + myName;
+        }
 }
 
 if(!localStorage.getItem('name')) {
